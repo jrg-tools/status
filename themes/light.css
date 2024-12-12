@@ -1,26 +1,26 @@
 :root {
-  --body-background-color: #f0f7f7;
-  --body-text-color: #002626;
-  --card-background-color: #ffffff;
-  --nav-background-color: #ffffff;
-  --nav-border-bottom-color: #d8e8e4;
-  --nav-current-border-bottom-color: #1abc9c;
-  --card-border-color: #d8e8e4;
-  --down-border-left-color: #eb3b5a;
-  --down-background-color: #ffd0d2;
-  --degraded-border-left-color: #f7b731;
-  --up-border-left-color: #20bf6b;
-  --tag-color: #ffffff;
-  --tag-up-background-color: #20bf6b;
-  --tag-down-background-color: #eb3b5a;
-  --tag-degraded-background-color: #f7b731;
-  --change-background-color: #f7b731;
-  --error-button-border-color: #1a46ad;
-  --error-button-background-color: #3867d6;
-  --error-button-color: #ffffff;
-  --submit-button-border-color: #1a46ad;
-  --submit-button-background-color: #3867d6;
-  --submit-button-color: #ffffff;
+  --body-background-color: #f9fafb; /* Tailwind gray-50 */
+  --body-text-color: #111827; /* Tailwind gray-900 */
+  --card-background-color: #ffffff; /* Tailwind white */
+  --nav-background-color: #ffffff; /* Tailwind white */
+  --nav-border-bottom-color: #e5e7eb; /* Tailwind gray-200 */
+  --nav-current-border-bottom-color: #6b7280; /* Tailwind gray-500 */
+  --card-border-color: #e5e7eb; /* Tailwind gray-200 */
+  --down-border-left-color: #9ca3af; /* Tailwind gray-400 */
+  --down-background-color: #f3f4f6; /* Tailwind gray-100 */
+  --degraded-border-left-color: #d1d5db; /* Tailwind gray-300 */
+  --up-border-left-color: #9ca3af; /* Tailwind gray-400 */
+  --tag-color: #ffffff; /* Tailwind white */
+  --tag-up-background-color: #9ca3af; /* Tailwind gray-400 */
+  --tag-down-background-color: #9ca3af; /* Tailwind gray-400 */
+  --tag-degraded-background-color: #d1d5db; /* Tailwind gray-300 */
+  --change-background-color: #d1d5db; /* Tailwind gray-300 */
+  --error-button-border-color: #9ca3af; /* Tailwind gray-400 */
+  --error-button-background-color: #e5e7eb; /* Tailwind gray-200 */
+  --error-button-color: #111827; /* Tailwind gray-900 */
+  --submit-button-border-color: #9ca3af; /* Tailwind gray-400 */
+  --submit-button-background-color: #e5e7eb; /* Tailwind gray-200 */
+  --submit-button-color: #111827; /* Tailwind gray-900 */
   --graph-opacity: 1;
-  --graph-filter: none;
+  --graph-filter: grayscale(100%);
 }
