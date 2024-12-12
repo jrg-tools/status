@@ -5,6 +5,12 @@ repo: status.jrg.tools
 sites:
   - name: Short URL
     url: https://x.jrg.tools/list?size=0
+  - name: Family all over the world
+    url: https://brain.familyalloverthe.world/
+  - name: Where is jorge Today?
+    url: https://whereisjorge.today/
+  - name: Jorge Chato personal page
+    url: https://jorgechato.com/
 
 assignees:
   - jorgechato
@@ -16,8 +22,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/4450555?v=4
   name: JRG Tools
-  introTitle: "**JRG Tools**"
-  introMessage:  Uptime monitor and status page for all of my tools.
+  # introTitle: "**JRG Tools**"
+  # introMessage:  Uptime monitor and status page for all of my tools.
   navbar:
     - title: Status
       href: /
