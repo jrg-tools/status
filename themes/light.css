@@ -1,26 +1,26 @@
 :root {
-  --body-background-color: #f9fafb; /* Tailwind gray-50 */
-  --body-text-color: #111827; /* Tailwind gray-900 */
-  --card-background-color: #ffffff; /* Tailwind white */
-  --nav-background-color: #ffffff; /* Tailwind white */
-  --nav-border-bottom-color: #e5e7eb; /* Tailwind gray-200 */
-  --nav-current-border-bottom-color: #6b7280; /* Tailwind gray-500 */
-  --card-border-color: #e5e7eb; /* Tailwind gray-200 */
-  --down-border-left-color: #9ca3af; /* Tailwind gray-400 */
-  --down-background-color: #f3f4f6; /* Tailwind gray-100 */
-  --degraded-border-left-color: #d1d5db; /* Tailwind gray-300 */
-  --up-border-left-color: #9ca3af; /* Tailwind gray-400 */
-  --tag-color: #ffffff; /* Tailwind white */
-  --tag-up-background-color: #9ca3af; /* Tailwind gray-400 */
-  --tag-down-background-color: #9ca3af; /* Tailwind gray-400 */
-  --tag-degraded-background-color: #d1d5db; /* Tailwind gray-300 */
-  --change-background-color: #d1d5db; /* Tailwind gray-300 */
-  --error-button-border-color: #9ca3af; /* Tailwind gray-400 */
-  --error-button-background-color: #e5e7eb; /* Tailwind gray-200 */
-  --error-button-color: #111827; /* Tailwind gray-900 */
-  --submit-button-border-color: #9ca3af; /* Tailwind gray-400 */
-  --submit-button-background-color: #e5e7eb; /* Tailwind gray-200 */
-  --submit-button-color: #111827; /* Tailwind gray-900 */
+  --body-background-color: #ffffff; /* Tailwind white */
+  --body-text-color: #18181b; /* Tailwind zinc-900 */
+  --card-background-color: #f9fafb; /* Tailwind zinc-50 */
+  --nav-background-color: #f9fafb; /* Tailwind zinc-50 */
+  --nav-border-bottom-color: #e4e4e7; /* Tailwind zinc-200 */
+  --nav-current-border-bottom-color: #71717a; /* Tailwind zinc-500 */
+  --card-border-color: #e4e4e7; /* Tailwind zinc-200 */
+  --down-border-left-color: #be123c; /* Tailwind rose-700 */
+  --down-background-color: #fee2e2; /* Tailwind rose-100 */
+  --degraded-border-left-color: #fbbf24; /* Tailwind amber-400 */
+  --up-border-left-color: #10b981; /* Tailwind emerald-500 */
+  --tag-color: #fbbf24; /* Tailwind amber-400 */
+  --tag-up-background-color: #10b981; /* Tailwind emerald-500 */
+  --tag-down-background-color: #be123c; /* Tailwind rose-700 */
+  --tag-degraded-background-color: #fbbf24; /* Tailwind amber-400 */
+  --change-background-color: #fbbf24; /* Tailwind amber-400 */
+  --error-button-border-color: #be123c; /* Tailwind rose-700 */
+  --error-button-background-color: #fee2e2; /* Tailwind rose-100 */
+  --error-button-color: #be123c; /* Tailwind rose-700 */
+  --submit-button-border-color: #e4e4e7; /* Tailwind zinc-200 */
+  --submit-button-background-color: #f9fafb; /* Tailwind zinc-50 */
+  --submit-button-color: #18181b; /* Tailwind zinc-900 */
   --graph-opacity: 1;
   --graph-filter: grayscale(100%);
 }
