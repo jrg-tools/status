@@ -1,26 +1,26 @@
 :root {
-  --body-background-color: #111827; /* Tailwind gray-900 */
-  --body-text-color: #f9fafb; /* Tailwind gray-50 */
-  --card-background-color: #1f2937; /* Tailwind gray-800 */
-  --nav-background-color: #1f2937; /* Tailwind gray-800 */
-  --nav-border-bottom-color: #374151; /* Tailwind gray-700 */
-  --nav-current-border-bottom-color: #9ca3af; /* Tailwind gray-400 */
-  --card-border-color: #374151; /* Tailwind gray-700 */
-  --down-border-left-color: #4b5563; /* Tailwind gray-600 */
-  --down-background-color: #1f2937; /* Tailwind gray-800 */
-  --degraded-border-left-color: #6b7280; /* Tailwind gray-500 */
-  --up-border-left-color: #4b5563; /* Tailwind gray-600 */
-  --tag-color: #1f2937; /* Tailwind gray-800 */
-  --tag-up-background-color: #4b5563; /* Tailwind gray-600 */
-  --tag-down-background-color: #4b5563; /* Tailwind gray-600 */
-  --tag-degraded-background-color: #6b7280; /* Tailwind gray-500 */
-  --change-background-color: #6b7280; /* Tailwind gray-500 */
-  --error-button-border-color: #4b5563; /* Tailwind gray-600 */
-  --error-button-background-color: #374151; /* Tailwind gray-700 */
-  --error-button-color: #f9fafb; /* Tailwind gray-50 */
-  --submit-button-border-color: #4b5563; /* Tailwind gray-600 */
-  --submit-button-background-color: #374151; /* Tailwind gray-700 */
-  --submit-button-color: #f9fafb; /* Tailwind gray-50 */
+  --body-background-color: #18181b; /* zinc-900 */
+  --body-text-color: #f4f4f5; /* zinc-100 */
+  --card-background-color: #27272a; /* zinc-800 */
+  --nav-background-color: #27272a; /* zinc-800 */
+  --nav-border-bottom-color: #52525b; /* zinc-600 */
+  --nav-current-border-bottom-color: #d4d4d8; /* zinc-300 */
+  --card-border-color: #52525b; /* zinc-600 */
+  --down-border-left-color: #71717a; /* zinc-500 */
+  --down-background-color: #3f3f46; /* zinc-700 */
+  --degraded-border-left-color: #a1a1aa; /* zinc-400 */
+  --up-border-left-color: #71717a; /* zinc-500 */
+  --tag-color: #27272a; /* zinc-800 */
+  --tag-up-background-color: #52525b; /* zinc-600 */
+  --tag-down-background-color: #3f3f46; /* zinc-700 */
+  --tag-degraded-background-color: #a1a1aa; /* zinc-400 */
+  --change-background-color: #a1a1aa; /* zinc-400 */
+  --error-button-border-color: #3f3f46; /* zinc-700 */
+  --error-button-background-color: #52525b; /* zinc-600 */
+  --error-button-color: #f4f4f5; /* zinc-100 */
+  --submit-button-border-color: #3f3f46; /* zinc-700 */
+  --submit-button-background-color: #52525b; /* zinc-600 */
+  --submit-button-color: #f4f4f5; /* zinc-100 */
   --graph-opacity: 1;
   --graph-filter: grayscale(100%);
 }
