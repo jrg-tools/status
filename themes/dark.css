@@ -1,26 +1,26 @@
 :root {
-  --body-background-color: #000000; /* Black */
-  --body-text-color: #f4f4f5; /* Tailwind zinc-100 */
-  --card-background-color: #18181b; /* Tailwind zinc-900 */
-  --nav-background-color: #18181b; /* Tailwind zinc-900 */
-  --nav-border-bottom-color: #27272a; /* Tailwind zinc-800 */
-  --nav-current-border-bottom-color: #52525b; /* Tailwind zinc-600 */
-  --card-border-color: #27272a; /* Tailwind zinc-800 */
-  --down-border-left-color: #be123c; /* Tailwind rose-700 */
-  --down-background-color: #fee2e2; /* Tailwind rose-100 */
-  --degraded-border-left-color: #fbbf24; /* Tailwind amber-400 */
-  --up-border-left-color: #10b981; /* Tailwind emerald-500 */
-  --tag-color: #000000; /* Black */
-  --tag-up-background-color: #10b981; /* Tailwind emerald-500 */
-  --tag-down-background-color: #be123c; /* Tailwind rose-700 */
-  --tag-degraded-background-color: #fbbf24; /* Tailwind amber-400 */
-  --change-background-color: #fbbf24; /* Tailwind amber-400 */
-  --error-button-border-color: #be123c; /* Tailwind rose-700 */
-  --error-button-background-color: #fee2e2; /* Tailwind rose-100 */
-  --error-button-color: #be123c; /* Tailwind rose-700 */
-  --submit-button-border-color: #3f3f46; /* Tailwind zinc-700 */
-  --submit-button-background-color: #27272a; /* Tailwind zinc-800 */
-  --submit-button-color: #f4f4f5; /* Tailwind zinc-100 */
+  --body-background-color: #001716;
+  --body-text-color: #f0ffff;
+  --card-background-color: #002b29;
+  --nav-background-color: #002b29;
+  --nav-border-bottom-color: #015450;
+  --nav-current-border-bottom-color: #1abc9c;
+  --card-border-color: #015450;
+  --down-border-left-color: #eb3b5a;
+  --down-background-color: #6b1020;
+  --degraded-border-left-color: #f7b731;
+  --up-border-left-color: #20bf6b;
+  --tag-color: #002b29;
+  --tag-up-background-color: #20bf6b;
+  --tag-down-background-color: #eb3b5a;
+  --tag-degraded-background-color: #f7b731;
+  --change-background-color: #f7b731;
+  --error-button-border-color: #1a46ad;
+  --error-button-background-color: #3867d6;
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #1a46ad;
+  --submit-button-background-color: #3867d6;
+  --submit-button-color: #ffffff;
   --graph-opacity: 1;
-  --graph-filter: grayscale(100%);
+  --graph-filter: none;
 }
