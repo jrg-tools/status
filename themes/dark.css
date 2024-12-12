@@ -1,26 +1,26 @@
 :root {
-  --body-background-color: #18181b; /* zinc-900 */
-  --body-text-color: #f4f4f5; /* zinc-100 */
-  --card-background-color: #27272a; /* zinc-800 */
-  --nav-background-color: #27272a; /* zinc-800 */
-  --nav-border-bottom-color: #52525b; /* zinc-600 */
-  --nav-current-border-bottom-color: #d4d4d8; /* zinc-300 */
-  --card-border-color: #52525b; /* zinc-600 */
-  --down-border-left-color: #71717a; /* zinc-500 */
-  --down-background-color: #3f3f46; /* zinc-700 */
-  --degraded-border-left-color: #a1a1aa; /* zinc-400 */
-  --up-border-left-color: #71717a; /* zinc-500 */
-  --tag-color: #27272a; /* zinc-800 */
-  --tag-up-background-color: #52525b; /* zinc-600 */
-  --tag-down-background-color: #3f3f46; /* zinc-700 */
-  --tag-degraded-background-color: #a1a1aa; /* zinc-400 */
-  --change-background-color: #a1a1aa; /* zinc-400 */
-  --error-button-border-color: #3f3f46; /* zinc-700 */
-  --error-button-background-color: #52525b; /* zinc-600 */
-  --error-button-color: #f4f4f5; /* zinc-100 */
-  --submit-button-border-color: #3f3f46; /* zinc-700 */
-  --submit-button-background-color: #52525b; /* zinc-600 */
-  --submit-button-color: #f4f4f5; /* zinc-100 */
+  --body-background-color: #000000; /* Black */
+  --body-text-color: #f4f4f5; /* Tailwind zinc-100 */
+  --card-background-color: #18181b; /* Tailwind zinc-900 */
+  --nav-background-color: #18181b; /* Tailwind zinc-900 */
+  --nav-border-bottom-color: #27272a; /* Tailwind zinc-800 */
+  --nav-current-border-bottom-color: #52525b; /* Tailwind zinc-600 */
+  --card-border-color: #27272a; /* Tailwind zinc-800 */
+  --down-border-left-color: #3f3f46; /* Tailwind zinc-700 */
+  --down-background-color: #18181b; /* Tailwind zinc-900 */
+  --degraded-border-left-color: #71717a; /* Tailwind zinc-500 */
+  --up-border-left-color: #3f3f46; /* Tailwind zinc-700 */
+  --tag-color: #18181b; /* Tailwind zinc-900 */
+  --tag-up-background-color: #3f3f46; /* Tailwind zinc-700 */
+  --tag-down-background-color: #3f3f46; /* Tailwind zinc-700 */
+  --tag-degraded-background-color: #71717a; /* Tailwind zinc-500 */
+  --change-background-color: #71717a; /* Tailwind zinc-500 */
+  --error-button-border-color: #3f3f46; /* Tailwind zinc-700 */
+  --error-button-background-color: #27272a; /* Tailwind zinc-800 */
+  --error-button-color: #f4f4f5; /* Tailwind zinc-100 */
+  --submit-button-border-color: #3f3f46; /* Tailwind zinc-700 */
+  --submit-button-background-color: #27272a; /* Tailwind zinc-800 */
+  --submit-button-color: #f4f4f5; /* Tailwind zinc-100 */
   --graph-opacity: 1;
   --graph-filter: grayscale(100%);
 }
