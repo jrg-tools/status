@@ -1,4 +1,3 @@
-# Change these first
 owner: jorgechato
 repo: status.jrg.tools
 
@@ -17,21 +16,13 @@ assignees:
 
 status-website:
   themeUrl: https://status.jrg.tools/custom-light.css
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jrg.tools
-  # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/4450555?v=4
   name: JRG Tools
-  # introTitle: "**JRG Tools**"
-  # introMessage:  Uptime monitor and status page for all of my tools.
   navbar:
     - title: Status
       href: /
-    # - title: GitHub
-    #   href: https://github.com/$OWNER/$REPO
   favicon: https://jorgechato.com/favicon.ico
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+
 i18n:
   footer: This page is [open source]($REPO), powered by Upptime.
