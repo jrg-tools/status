@@ -3,7 +3,7 @@ repo: status.jrg.tools
 
 sites:
   - name: X - Short URL
-    url: https://x.jrg.tools/list?size=0
+    url: https://x.jrg.tools/health
   - name: Where is Jorge Today?
     url: https://whereisjorge.today/
   - name: What is Jorge doing Today?
