@@ -1,7 +1,7 @@
 url: https://x.jrg.tools/list?size=0
-status: up
-code: 200
-responseTime: 3252
-lastUpdated: 2024-12-14T10:28:32.026Z
+status: down
+code: 400
+responseTime: 88
+lastUpdated: 2024-12-14T10:38:21.034Z
 startTime: 2024-12-12T23:35:59.936Z
 generator: Upptime <https://github.com/upptime/upptime>
