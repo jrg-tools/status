@@ -4,19 +4,19 @@
     "url": "https://x.jrg.tools/list?size=0",
     "icon": "https://icons.duckduckgo.com/ip3/x.jrg.tools.ico",
     "slug": "x-short-url",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 555,
-    "timeWeek": 449,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "status": "up",
+    "uptime": "98.08%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
+    "time": 916,
+    "timeDay": 1454,
+    "timeWeek": 916,
+    "timeMonth": 916,
+    "timeYear": 916,
     "dailyMinutesDown": {
-      "2024-12-14": 0
+      "2024-12-14": 40
     }
   },
   {
