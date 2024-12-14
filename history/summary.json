@@ -1,22 +1,22 @@
 [
   {
     "name": "X - Short URL",
-    "url": "https://x.jrg.tools/list?size=0",
+    "url": "https://x.jrg.tools/health",
     "icon": "https://icons.duckduckgo.com/ip3/x.jrg.tools.ico",
     "slug": "x-short-url",
-    "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "98.09%",
-    "time": 798,
-    "timeDay": 1112,
-    "timeWeek": 798,
-    "timeMonth": 798,
-    "timeYear": 798,
+    "status": "up",
+    "uptime": "92.25%",
+    "uptimeDay": "87.97%",
+    "uptimeWeek": "92.25%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "92.25%",
+    "time": 710,
+    "timeDay": 910,
+    "timeWeek": 710,
+    "timeMonth": 710,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2024-12-14": 40
+      "2024-12-14": 173
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 321,
-    "timeWeek": 332,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "time": 328,
+    "timeDay": 308,
+    "timeWeek": 328,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 547,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "time": 317,
+    "timeDay": 372,
+    "timeWeek": 317,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 225,
-    "timeWeek": 305,
-    "timeMonth": 305,
-    "timeYear": 305,
+    "time": 294,
+    "timeDay": 237,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   }
 ]
