@@ -22,6 +22,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Github
+      href: https://github.com/jorgechato/
   favicon: https://jorgechato.com/favicon.ico
 
 i18n:
