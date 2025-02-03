@@ -42,18 +42,20 @@
     "url": "https://whatisjorgedoing.today/",
     "icon": "https://icons.duckduckgo.com/ip3/whatisjorgedoing.today.ico",
     "slug": "what-is-jorge-doing-today",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 61,
-    "timeWeek": 152,
-    "timeMonth": 250,
+    "timeDay": 174,
+    "timeWeek": 168,
+    "timeMonth": 251,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-03": 0
+    }
   },
   {
     "name": "Jorge Chato's page",
