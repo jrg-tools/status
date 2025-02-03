@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/x.jrg.tools.ico",
     "slug": "x-short-url",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
-    "time": 379,
-    "timeDay": 352,
-    "timeWeek": 292,
-    "timeMonth": 382,
-    "timeYear": 379,
+    "uptimeYear": "99.77%",
+    "time": 374,
+    "timeDay": 100,
+    "timeWeek": 257,
+    "timeMonth": 368,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2024-12-14": 173
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 155,
-    "timeWeek": 240,
+    "timeDay": 277,
+    "timeWeek": 251,
     "timeMonth": 298,
     "timeYear": 282,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 268,
-    "timeWeek": 179,
-    "timeMonth": 252,
-    "timeYear": 269,
+    "time": 266,
+    "timeDay": 61,
+    "timeWeek": 152,
+    "timeMonth": 250,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 385,
-    "timeWeek": 296,
-    "timeMonth": 293,
-    "timeYear": 287,
+    "time": 288,
+    "timeDay": 366,
+    "timeWeek": 306,
+    "timeMonth": 296,
+    "timeYear": 288,
     "dailyMinutesDown": {}
   }
 ]
