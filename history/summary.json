@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 332,
-    "timeDay": 133,
-    "timeWeek": 189,
-    "timeMonth": 336,
+    "timeDay": 311,
+    "timeWeek": 217,
+    "timeMonth": 342,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2024-12-14": 173
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 302,
-    "timeDay": 361,
-    "timeWeek": 547,
+    "time": 301,
+    "timeDay": 187,
+    "timeWeek": 541,
     "timeMonth": 318,
-    "timeYear": 302,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2025-02-18": 31
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "96.67%",
     "uptimeYear": "98.57%",
     "time": 234,
-    "timeDay": 147,
-    "timeWeek": 131,
-    "timeMonth": 177,
+    "timeDay": 185,
+    "timeWeek": 136,
+    "timeMonth": 172,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2025-02-04": 668,
@@ -65,19 +65,19 @@
     "url": "https://jorgechato.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jorgechato.com.ico",
     "slug": "jorge-chato-s-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 267,
+    "time": 264,
     "timeDay": 198,
-    "timeWeek": 206,
-    "timeMonth": 250,
-    "timeYear": 267,
+    "timeWeek": 192,
+    "timeMonth": 244,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-02-21": 45
+      "2025-02-21": 38
     }
   }
 ]
