@@ -65,7 +65,7 @@
     "url": "https://jorgechato.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jorgechato.com.ico",
     "slug": "jorge-chato-s-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,6 +76,8 @@
     "timeWeek": 193,
     "timeMonth": 249,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   }
 ]
