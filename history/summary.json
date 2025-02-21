@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/what.jorgechato.com.ico",
     "slug": "what-is-jorge-doing-today",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.67%",
-    "uptimeYear": "98.56%",
+    "uptimeYear": "98.57%",
     "time": 234,
     "timeDay": 147,
     "timeWeek": 131,
@@ -65,19 +65,19 @@
     "url": "https://jorgechato.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jorgechato.com.ico",
     "slug": "jorge-chato-s-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 266,
-    "timeDay": 121,
+    "timeDay": 156,
     "timeWeek": 198,
     "timeMonth": 248,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-02-21": 45
+      "2025-02-21": 38
     }
   }
 ]
