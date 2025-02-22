@@ -65,19 +65,19 @@
     "url": "https://jorgechato.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jorgechato.com.ico",
     "slug": "jorge-chato-s-page",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.93%",
     "time": 259,
     "timeDay": 142,
     "timeWeek": 181,
     "timeMonth": 236,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-02-22": 43,
+      "2025-02-22": 36,
       "2025-02-21": 38
     }
   }
