@@ -18,14 +18,14 @@ assignees:
 status-website:
   themeUrl: https://status.jrg.tools/custom-light.css
   cname: status.jrg.tools
-  logoUrl: https://avatars.githubusercontent.com/u/4450555?v=4
+  logoUrl: https://jorgechato.com/logo.webp
   name: JRG Tools
   navbar:
     - title: Status
       href: /
     - title: Github
       href: https://github.com/jorgechato/
-  favicon: https://jorgechato.com/favicon.ico
+  favicon: https://jorgechato.com/logo.webp
 
 i18n:
   footer: This page is [open source]($REPO), powered by Upptime.
