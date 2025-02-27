@@ -10,6 +10,7 @@ sites:
     url: https://what.jorgechato.com/
   - name: "Jorge Chato's page"
     url: https://jorgechato.com/
+    maxResponseTime: 600
 
 assignees:
   - jorgechato
