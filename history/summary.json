@@ -24,7 +24,7 @@
     "url": "https://whereisjorge.today/",
     "icon": "https://icons.duckduckgo.com/ip3/whereisjorge.today.ico",
     "slug": "where-is-jorge-today",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 1050,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2025-04-06": 0,
       "2025-02-18": 31
     }
   },
