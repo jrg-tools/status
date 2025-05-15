@@ -25,7 +25,7 @@ status-website:
       href: /
     - title: Github
       href: https://github.com/jorgechato/
-  favicon: https://jorgechato.com/logo.webp
+  favicon: https://jorgechato.com/favicon.ico
 
 i18n:
   footer: This page is [open source]($REPO), powered by Upptime.
