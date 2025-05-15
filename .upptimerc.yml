@@ -21,6 +21,8 @@ status-website:
   logoUrl: https://jorgechato.com/logo.webp
   name: JRG Tools
   navbar:
+    - title: Me
+      href: https://jorgechato.com/
     - title: Status
       href: /
     - title: Github
