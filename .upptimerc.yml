@@ -16,7 +16,7 @@ assignees:
   - jorgechato
 
 status-website:
-  themeUrl: https://status.jrg.tools/custom-light.css
+  themeUrl: https://status.jrg.tools/custom-dark.css
   cname: status.jrg.tools
   logoUrl: https://jorgechato.com/logo.webp
   name: JRG Tools
